@@ -1,4 +1,6 @@
-
+This is Kate. She's editing a readme file through vi (not PuTTY, James is
+telling her) all by herself unless you count James totally telling her what to
+do. In that way it is not by herself at all.
 CONTENTS OF THIS FILE
 ---------------------
 
